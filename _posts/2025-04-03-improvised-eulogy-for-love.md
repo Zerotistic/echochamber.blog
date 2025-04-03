@@ -3,7 +3,7 @@ layout: post
 title: "An Improvised Eulogy for Love (And Other Unhelpful Ways I Stopped Caring)"
 author: "Zerotistic"
 categories: thoughts
-image: improvised_eulogy.jpg
+image: improvised_eulogy.png
 ---
 
 I've grown so weary of the endless chorus urging me to find a girlfriend, to “settle down,” to “give life meaning” through the pursuit of romance. It feels like an unrelenting chant echoing off the walls of my mind, as though everyone's convinced that the sole purpose of a man's existence is to lock arms with someone—anyone, really—and trudge forward into the glow of domestic bliss. Perhaps once I believed in all that, or tried to, but I can't muster even a fragment of faith anymore. The hollowness of it all has become painfully clear. I have, in every sense, given up on love.
