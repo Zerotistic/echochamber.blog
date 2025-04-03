@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Echo Chamber is a resting place for those who’ve grown tired of life’s cheap illusions—love, success, or whatever else is sold as “meaning.” In this bleakly honest space, we collect the echoes of broken dreams and reflect them back with a wry, detached stare. If you’ve found no comfort in pretty fictions, you might find some cold solace in seeing your own cynicism mirrored here.
