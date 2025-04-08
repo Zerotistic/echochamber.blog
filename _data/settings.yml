@@ -2,13 +2,11 @@ disqus:
   comments: false
   disqus_shortname: 'millennial-3'
 
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'G-9TGF3W0FGB'
 
 menu:
-- {name: 'About',              url: 'about'}
+- {name: 'About', url: 'about'}
 
-# Customize site text
 pagination:
   next_page: 'Newer'
   previous_page: 'Older'
