@@ -26,12 +26,15 @@ Fun thrives on scarcity. First memes, first multiplayer lobbies, first time Face
 What replaced fun is maintenance: snapping streaks so friends don't think I'm ignoring them; sifting feeds so the algorithm doesn't punish me; answering DMs fast enough to appear alive but not desperate. It's less a playground than a shift at a factory producing the same commodity: engagement.
 
 > Boredom tolerance.
+
 Waiting rooms, queues, lectures—every pause is now a quick-scroll micro-vacation. We never watch our thoughts stretch and yawn; we chloroform them with content.
 
 > Follow-through.
+
 When attention shifts every eight seconds, projects longer than a TikTok feel geological. I start, I stall, I open another tab.
 
 > Face-to-face conflict.
+
 Why risk awkwardness when you can ghost? Push notifications replace confrontation; silence becomes strategy.
 
 These are not minor habits; they're foundation beams of adulthood. Each time a phone shoulders the discomfort, a muscle atrophies.
