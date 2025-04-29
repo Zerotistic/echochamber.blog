@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bare-Minimum Ambitions (And Other Ways We Guarantee Regret)"
+title: "Bare-minimum ambitions (and other ways we guarantee regret)"
 author: "Zerotistic"
 categories: thoughts
 image: bare_minimum_ambitions.png

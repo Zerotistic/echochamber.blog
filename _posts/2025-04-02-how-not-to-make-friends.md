@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Not Make Friends and Influence Nobody (A Funeral for My Social Life)"
+title: "How to not make friends and influence nobody (a funeral for my social life)"
 author: "Zerotistic"
 categories: thoughts
 image: no_friends.png

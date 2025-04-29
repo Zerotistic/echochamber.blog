@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Misunderstanding Everyone (Including Myself) – The Delicate Art of Constant Confusion"
+title: "Misunderstanding everyone (including myself) – The delicate art of constant confusion"
 author: "Zerotistic"
 categories: thoughts
 image: misunderstandings.png

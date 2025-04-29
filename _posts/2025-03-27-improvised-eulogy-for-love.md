@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Improvised Eulogy for Love (And Other Unhelpful Ways I Stopped Caring)"
+title: "An improvised eulogy for love (and other unhelpful ways I stopped caring)"
 author: "Zerotistic"
 categories: thoughts
 image: improvised_eulogy.png
