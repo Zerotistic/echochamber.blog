@@ -6,5 +6,5 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 title:		           "Echo Chamber"
-description:	       "A quiet corner of the internet where existential dread, weary cynicism, and tired introspection echo back on themselves."
-author:              "A Disillusioned Witness"
+description:	       "My corner of the internet for things that matter (or don't): love, life, success, and the gaps in between."
+author:              "Reluctant Participant"
