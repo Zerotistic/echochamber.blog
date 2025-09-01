@@ -9,25 +9,25 @@ image: playground_to_doomscroll.png
 
 I'm twenty-one. I never queued for dial-up or fed a Tamagotchi under fluorescent kitchen lights. My earliest memory of “going online” is stealing my dad's phone to tap colored candy into rows while YouTube music videos loaded in the background. The internet never felt like a secret basement rave; it was daylight, default, background radiation.
 
-And yet, somewhere between primary school group chats and university lecture streams, the glow stopped feeling playful. The pocket portal turned into a leash. There was no single moment of betrayal—just a growing sense that what used to entertain now manages, monitors, and exhausts. I find myself scrolling through content I can't remember two minutes later, swiping fresh fingerprints into glass as though the next thumb-flick might finally satisfy an appetite the previous thousand didn't.
+And yet, somewhere between primary school group chats and university lecture streams, the glow stopped feeling playful. The pocket portal turned into a leash. There was no single moment of betrayal, just a growing sense that what used to entertain now manages, monitors, and exhausts. I find myself scrolling through content I can't remember two minutes later, swiping fresh fingerprints into glass as though the next thumb-flick might finally satisfy an appetite the previous thousand didn't.
 
-One night—grey screens humming in the dark—I typed into a note:
+One night, grey screens humming in the dark, I typed into a note:
 
 > “Have our phones kept us from becoming fully capable adults?”
 
-I stared at the sentence, not sure whether to laugh or feel accused. Adulthood used to intimidate me: rent, taxes, the slow cathedral-building of identity. But maybe what scares me more is the possibility that constant connectivity delays that construction indefinitely. The phone schedules reminders, navigates streets, finishes my sentences, fills every silence. I've begun to wonder if the same device is quietly arresting my development—making sure I never encounter a challenge unbuffered by a tutorial or an app.
+I stared at the sentence, not sure whether to laugh or feel accused. Adulthood used to intimidate me: rent, taxes, the slow cathedral-building of identity. But maybe what scares me more is the possibility that constant connectivity delays that construction indefinitely. The phone schedules reminders, navigates streets, finishes my sentences, fills every silence. I've begun to wonder if the same device is quietly arresting my development, making sure I never encounter a challenge unbuffered by a tutorial or an app.
 
-I keep buying books. They arrive smelling of promise—ink, glue, a certain hush. I open one, read three pages, then feel an itch in my palm. What if breaking news erupted while I was learning about medieval poetry? What if someone needed me? (No one does.) Instead of lighting a candle and sinking into text, I tap into horror headlines, eat tragedy in bite-size paragraphs, watch strangers meltdown in comment sections—doing all of this hunched over a desk, a toilet, a bus seat, my posture mirroring the curve of regret.
+I keep buying books. They arrive smelling of promise: ink, glue, a certain hush. I open one, read three pages, then feel an itch in my palm. What if breaking news erupted while I was learning about medieval poetry? What if someone needed me? (No one does.) Instead of lighting a candle and sinking into text, I tap into horror headlines, eat tragedy in bite-size paragraphs, watch strangers meltdown in comment sections, doing all of this hunched over a desk, a toilet, a bus seat, my posture mirroring the curve of regret.
 
-People say, “Just exercise self-control.” As if self-control weren't precisely what the apps have reverse-engineered. Infinite scroll, autoplay, streaks—they sandbox discipline until it's ornamental. I'm not fleeing accountability; I'm wrestling code written by people with graphs showing how quickly I'll cave.
+People say, “Just exercise self-control.” As if self-control weren't precisely what the apps have reverse-engineered. Infinite scroll, autoplay, streaks: they sandbox discipline until it's ornamental. I'm not fleeing accountability; I'm wrestling code written by people with graphs showing how quickly I'll cave.
 
-Fun thrives on scarcity. First memes, first multiplayer lobbies, first time FaceTiming a classmate until 3 a.m.—they felt electric because novelty was a resource. Now novelty is pipeline-fed. Algorithms anticipate what I didn't know I wanted and dump it in bulk. Surprise collapses; curiosity fades. When everything is available, nothing feels earned.
+Fun thrives on scarcity. First memes, first multiplayer lobbies, first time FaceTiming a classmate until 3 a.m.: they felt electric because novelty was a resource. Now novelty is pipeline-fed. Algorithms anticipate what I didn't know I wanted and dump it in bulk. Surprise collapses; curiosity fades. When everything is available, nothing feels earned.
 
 What replaced fun is maintenance: snapping streaks so friends don't think I'm ignoring them; sifting feeds so the algorithm doesn't punish me; answering DMs fast enough to appear alive but not desperate. It's less a playground than a shift at a factory producing the same commodity: engagement.
 
 > Boredom tolerance.
 
-Waiting rooms, queues, lectures—every pause is now a quick-scroll micro-vacation. We never watch our thoughts stretch and yawn; we chloroform them with content.
+Waiting rooms, queues, lectures: every pause is now a quick-scroll micro-vacation. We never watch our thoughts stretch and yawn; we chloroform them with content.
 
 > Follow-through.
 
@@ -39,7 +39,7 @@ Why risk awkwardness when you can ghost? Push notifications replace confrontatio
 
 These are not minor habits; they're foundation beams of adulthood. Each time a phone shoulders the discomfort, a muscle atrophies.
 
-Why won't we just switch off? Phones are not optional trinkets. They store vaccine certificates, two-factor tokens, digital tickets, rideshare lifelines if you're out late and female or queer or just alone. They're also escape hatches from threatening situations—real or imagined. Telling people to “go dumbphone” can sound like telling them to ditch seatbelts.
+Why won't we just switch off? Phones are not optional trinkets. They store vaccine certificates, two-factor tokens, digital tickets, rideshare lifelines if you're out late and female or queer or just alone. They're also escape hatches from threatening situations, real or imagined. Telling people to “go dumbphone” can sound like telling them to ditch seatbelts.
 
 So the question isn't whether to keep the device; it's how to restrain it. I don't want to live inside a nostalgia meme about flip phones and “real socializing.” I just want space inside my head that isn't procedurally generated by servers on the far side of the world.
 
@@ -48,12 +48,12 @@ So the question isn't whether to keep the device; it's how to restrain it. I don
 3. News once, at lunch. World chaos still reaches me, but not before coffee or after sunset.
 4. Weekend desktop rule. Laptop stays on the desk; if I'm outside that radius, internet is over until I return.
 
-None of this is revolutionary. What shocks me is how dramatic the psychological difference feels—like opening windows in a room I forgot was stuffy.
+None of this is revolutionary. What shocks me is how dramatic the psychological difference feels: like opening windows in a room I forgot was stuffy.
 
 I'm not cured; the phone still steals hours. But a few reclaimed pockets of silence have multiplied quickly: lingering in conversation because there's no buzzing in my sleeve; finishing an essay draft in one sitting; remembering to call my grandmother before doomscrolling reminds me life is fragile.
 
-Technology isn't evil, just ravenous—an attention predator without moral compass. If I don't build fences, it grazes until the field is dust. The goal isn't to kill the beast, only to leash it outside while I cook, read, think, grow. Those are the moments that feel like adult life trying to erupt through asphalt.
+Technology isn't evil, just ravenous: an attention predator without moral compass. If I don't build fences, it grazes until the field is dust. The goal isn't to kill the beast, only to leash it outside while I cook, read, think, grow. Those are the moments that feel like adult life trying to erupt through asphalt.
 
-Maybe fun returns in the gaps: uncurated playlists shared face-to-face, board games lasting longer than a Snapchat, walking home in the wrong direction just to prove the map app isn't my conscience. Maybe adulthood is nothing more than choosing how many of those gaps to enlarge—tenderly, stubbornly—until they're wide enough to house experiences that don't beg for analytics.
+Maybe fun returns in the gaps: uncurated playlists shared face-to-face, board games lasting longer than a Snapchat, walking home in the wrong direction just to prove the map app isn't my conscience. Maybe adulthood is nothing more than choosing how many of those gaps to enlarge, tenderly and stubbornly, until they're wide enough to house experiences that don't beg for analytics.
 
 I'm writing this on a computer, of course. I'll post it online. You'll read it on glass. Tools can't be dis-invented. But if a single reader pockets their phone for one hour and remembers the texture of unfiltered time, that's proof the party isn't fully over. It's just moved outside, where the music is softer and you can hear yourself think.
